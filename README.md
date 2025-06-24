@@ -69,7 +69,7 @@ School of Information & Communications Technology – Thai Nguyen
 ## 📫 Contact Me
 
 - 📧 Email: khanhvn.dev@gmail.com  
-- 💼 LinkedIn: [[linkedin.com/in/yourprofile](linkedin.com/in/khanhvn142))  
+- 💼 LinkedIn: [[linkedin.com/in/khanhvn142])  
 
 
 ---
