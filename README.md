@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Khánh
+# 👋 Hi, I'm Khanh
 
 💻 I'm a software developer passionate about:
 - 🧠 Building intelligent applications
