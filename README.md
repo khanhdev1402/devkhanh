@@ -62,7 +62,7 @@ Created a real-time, cross-device compatible interface with high responsiveness 
 
 🎓 **Bachelor of Software Engineering**  
 School of Information & Communications Technology – Thai Nguyen  
-📅 *Graduated: May 2021*
+📅 *Graduated: May 2024*
 
 ---
 
