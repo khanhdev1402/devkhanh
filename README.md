@@ -58,7 +58,7 @@ Deliver a secure, responsive, and user-friendly UI by integrating backend APIs, 
 - Used `React Hook Form` for efficient form handling and validation  
 - Enhanced UI/UX with animations via `React Spring`  
 - Leveraged both custom and community `usehooks` to streamline development  
-- Tools & Tech: `TypeScript`, `ReactJS (Vite)`, `TailwindCSS`, `WebSocket`, `React Hook Form`, `React Spring`, `Zustand`
+- Tools & Tech: `TypeScript`, `ReactJS (Vite)`, `TailwindCSS`, `WebSocket`, `React Hook Form`, `React Spring`
 
 🏆 **Key Achievement:**  
 Created a real-time, cross-device compatible interface with high responsiveness and smooth user experience.
