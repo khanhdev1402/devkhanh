@@ -1,4 +1,10 @@
-# 👋 Hello there! I'm a Full-Stack Developer
+# 👋 Hi, I'm Khanh
+
+🚀 Turning ideas into clean, efficient code.
+
+I'm a passionate developer with a focus on building practical and scalable web applications.  
+I enjoy working with JavaScript, Node.js, and modern frameworks to bring ideas to life.  
+This GitHub is where I share my personal projects, experiments, and learning journey.
 
 🚀 **Professional Summary**  
 Full-stack developer (2019–present) with a proactive, detail-oriented mindset, always striving for high-quality results. My natural curiosity drives continuous learning and personal growth. I'm a strong team player who also thrives independently — passionate about creating real, practical value for any organization I work with.
